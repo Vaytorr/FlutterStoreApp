@@ -24,7 +24,7 @@
 
 <img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/githuImages/Categories.jpg" height="500">
 
-*Here you can add the categories of your products in this example i only used T-Shirts but it works with more than one category*
+*Here you can add the categories of your products, in this example i only used T-Shirts but it works with more than one category*
 
 ***Products Screen***
 
