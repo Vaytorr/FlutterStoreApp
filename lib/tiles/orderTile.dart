@@ -80,9 +80,9 @@ class OrderTile extends StatelessWidget {
     String text = "Description:\n";
     for (LinkedHashMap p in snapshot.data["products"]) {
       text +=
-          "\n${p["quantity"]}x ${p["product"]["title"]} (R\$ ${p["product"]["price"].toStringAsFixed(2)})\n";
+          "\n${p["quantity"]}x ${p["product"]["title"]} (\$ ${p["product"]["price"].toStringAsFixed(2)})\n";
     }
-    text += "\nTotal: R\$ ${snapshot.data["totalPrice"].toStringAsFixed(2)}";
+    text += "\nTotal: \$ ${snapshot.data["totalPrice"].toStringAsFixed(2)}";
     return text;
   }
 
