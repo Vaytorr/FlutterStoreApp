@@ -8,7 +8,7 @@
 
 **-----------------------------------------------------------------------------------------------------------------**
 
-# The app consists in 7 screens, being them
+# The app consists in 9 screens, being them
 
 ***Home Screen***
 
