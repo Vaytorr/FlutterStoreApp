@@ -78,7 +78,7 @@
 
 <img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/githuImages/Cart.jpg" height="500">
 
-*Here you can see all the products you added to the cart, add a discount coupon and make checkout*
+*Here you can see all the products you added to the cart, change the quantity of them, add a discount coupon and make checkout*
 
 
 
