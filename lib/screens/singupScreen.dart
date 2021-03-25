@@ -52,8 +52,9 @@ class singupScreen extends StatelessWidget {
                       },
                       decoration: InputDecoration(
                         hintText: "Username",
-                        hintStyle:
-                            TextStyle(fontSize: 18.0, color: Colors.white),
+                        hintStyle: TextStyle(
+                          fontSize: 18.0,
+                        ),
                         enabledBorder: UnderlineInputBorder(
                           borderSide: BorderSide(color: _ciano),
                         ),
@@ -80,8 +81,9 @@ class singupScreen extends StatelessWidget {
                       },
                       decoration: InputDecoration(
                         hintText: "E-Mail",
-                        hintStyle:
-                            TextStyle(fontSize: 18.0, color: Colors.white),
+                        hintStyle: TextStyle(
+                          fontSize: 18.0,
+                        ),
                         enabledBorder: UnderlineInputBorder(
                           borderSide: BorderSide(color: _ciano),
                         ),
@@ -106,8 +108,9 @@ class singupScreen extends StatelessWidget {
                       obscureText: true,
                       decoration: InputDecoration(
                         hintText: "Password",
-                        hintStyle:
-                            TextStyle(fontSize: 18.0, color: Colors.white),
+                        hintStyle: TextStyle(
+                          fontSize: 18.0,
+                        ),
                         enabledBorder: UnderlineInputBorder(
                           borderSide: BorderSide(color: _ciano),
                         ),
@@ -131,8 +134,9 @@ class singupScreen extends StatelessWidget {
                       },
                       decoration: InputDecoration(
                         hintText: "Address",
-                        hintStyle:
-                            TextStyle(fontSize: 18.0, color: Colors.white),
+                        hintStyle: TextStyle(
+                          fontSize: 18.0,
+                        ),
                         enabledBorder: UnderlineInputBorder(
                           borderSide: BorderSide(color: _ciano),
                         ),
@@ -199,7 +203,7 @@ class singupScreen extends StatelessWidget {
                         },
                         child: Text(
                           "Create Account",
-                          style: TextStyle(fontSize: 18),
+                          style: TextStyle(fontSize: 18, color: Colors.white),
                         ),
                       ),
                     ),

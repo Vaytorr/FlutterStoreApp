@@ -65,7 +65,9 @@ class LoginScreen extends StatelessWidget {
                     controller: _emailController,
                     decoration: InputDecoration(
                       hintText: "email",
-                      hintStyle: TextStyle(fontSize: 18.0, color: Colors.white),
+                      hintStyle: TextStyle(
+                        fontSize: 18.0,
+                      ),
                       enabledBorder: UnderlineInputBorder(
                         borderSide: BorderSide(color: _ciano),
                       ),
@@ -90,7 +92,9 @@ class LoginScreen extends StatelessWidget {
                     obscureText: true,
                     decoration: InputDecoration(
                       hintText: "Password",
-                      hintStyle: TextStyle(fontSize: 18.0, color: Colors.white),
+                      hintStyle: TextStyle(
+                        fontSize: 18.0,
+                      ),
                       enabledBorder: UnderlineInputBorder(
                         borderSide: BorderSide(color: _ciano),
                       ),
@@ -165,7 +169,7 @@ class LoginScreen extends StatelessWidget {
                       },
                       child: Text(
                         "Sign in",
-                        style: TextStyle(fontSize: 18),
+                        style: TextStyle(fontSize: 18, color: Colors.white),
                       ),
                     ),
                   ),
