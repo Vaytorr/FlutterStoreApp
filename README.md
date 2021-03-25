@@ -6,7 +6,7 @@
 
 **I made this app to learn how to use flutter, so don't expect much**
 
-**-----------------------------------------------------------------------------------------------------------------**
+**__________________________________________________________________________________________________________________**
 
 # The app consists in 9 screens, being them
 
@@ -81,7 +81,35 @@
 *Here you can see all the products you added to the cart, change the quantity of them, add a discount coupon and make checkout*
 
 
+# How to add data to the app
 
+***I'm planning on working on an app to "manage" this one but for now you have to add the data manually in the firebase***
+
+***You can see how to do it below***
+
+***__________________________________________________________________________________________________________________***
+
+**How to add images to the Home Screen Image Grid**
+
+<img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/firebaseExamplesImages/Home-Image-Grid.png" height="400">
+
+**How to add an item category**
+
+<img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/firebaseExamplesImages/products.png" height="400">
+
+**How to add items inside a category**
+
+<img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/firebaseExamplesImages/products2.png" height="400">
+
+**How to add Stores**
+
+<img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/firebaseExamplesImages/Screenshot_1.png" height="400">
+
+**How to add Discount Coupons**
+
+<img src="https://github.com/Vaytorr/FlutterStoreApp/blob/master/firebaseExamplesImages/Coupons.png" height="400">
+
+*Always add a coupon with upper case letters*
 
 
 **For the app to work you have to add your own google-services.json**
