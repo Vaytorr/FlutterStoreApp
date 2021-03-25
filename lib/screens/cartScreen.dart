@@ -31,7 +31,7 @@ class CartScreen extends StatelessWidget {
               builder: (context, child, model) {
                 int p = model.products.length;
                 return Text(
-                  "${p ?? 0} ${p == 1 ? "iten" : "itens"}",
+                  "${p ?? 0} ${p == 1 ? "item" : "items"}",
                   style: TextStyle(fontSize: 17, color: _ciano),
                 );
               },
