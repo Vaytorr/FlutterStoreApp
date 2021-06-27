@@ -6,6 +6,8 @@
 
 **I made this app to learn how to use flutter, so don't expect much**
 
+**This app was made following an udemy tutorial**
+
 **__________________________________________________________________________________________________________________**
 
 # The app consists in 9 screens, being them
