@@ -1,8 +1,8 @@
 # Flutter Store App
 
-***This is a Cloth Store app made using Flutter/Dart and Firebase***
+***This is a Clothing Store app made using Flutter/Dart and Firebase***
 
-**This app the most complex project i worked so far using flutter, but this still is one of my first projects**
+**This app is the most complex project I worked in so far using flutter, but this still is one of my first projects**
 
 **I made this app to learn how to use flutter, so don't expect much**
 
