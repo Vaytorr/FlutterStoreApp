@@ -89,7 +89,7 @@
 
 ***You can use the [companion app](https://github.com/guibrandalisee/FlutterStoreManagerAPP) to do this***
 
-***But if you want to do it manually, you can see how to do it below ***
+***But if you want to do it manually, you can see how to do it below***
 ***__________________________________________________________________________________________________________________***
 
 **How to add images to the Home Screen Image Grid**
