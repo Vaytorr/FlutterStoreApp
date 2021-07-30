@@ -1,3 +1,5 @@
+[Versão em português desse arquivo](https://github.com/guibrandalisee/FlutterStoreApp/blob/master/READMEPT.md)
+
 # Flutter Store App
 
 ***This is a Clothing Store app made using Flutter/Dart and Firebase***
@@ -84,6 +86,8 @@
 <img src="https://user-images.githubusercontent.com/41174096/127561604-35035f26-2e5e-41aa-aa1a-dd1e7ce9e771.png" height="500">
 
 *Here you can see all the products you added to the cart, change the quantity of them, add a discount coupon and make checkout*
+
+**Please note that there is no payment API configured to work with this app**
 
 # How to add data to the app
 
