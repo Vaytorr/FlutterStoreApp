@@ -93,33 +93,6 @@
 
 ***You can use the [companion app](https://github.com/guibrandalisee/FlutterStoreManagerAPP) to do this***
 
-***But if you want to do it manually, you can see how to do it below***
-***__________________________________________________________________________________________________________________***
-
-**How to add images to the Home Screen Image Grid**
-
-<img src="https://user-images.githubusercontent.com/41174096/127562190-6877396f-7fde-4bf5-b210-327a5450ea8a.png" height="400">
-
-
-**How to add an item category**
-
-<img src="https://user-images.githubusercontent.com/41174096/127562162-768c78ed-1060-4cab-858b-f9efb5782bc1.png" height="400">
-
-
-**How to add items inside a category**
-
-<img src="https://user-images.githubusercontent.com/41174096/127562140-078f18cb-0e20-49a7-b4ae-09b2887dcae4.png" height="400">
-
-**How to add Stores**
-
-<img src="https://user-images.githubusercontent.com/41174096/127562176-b7742cf1-05d5-4cf2-9356-91e0b0a1e56e.png" height="400">
-
-**How to add Discount Coupons**
-
-<img src="https://user-images.githubusercontent.com/41174096/127562122-e24719e2-a4a0-480f-9107-d7206e540683.png" height="400">
-
-*Always add a coupon with upper case letters*
-
 **For the app to work you have to add your own google-services.json**
 
 find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
